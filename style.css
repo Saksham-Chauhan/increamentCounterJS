@@ -1,0 +1,19 @@
+ body{
+    background-color: rgb(14, 72, 122);
+    text-align: center; 
+ } 
+ #main{ 
+    margin-top: 100px;
+    color: white;
+} 
+#sp{
+    font-size: 40px;
+}
+.main-container{
+    margin: 30px;
+    display: inline-block;  
+} 
+.counter{
+    font-size: 40px;
+    color: red;
+}
